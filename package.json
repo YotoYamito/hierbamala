@@ -19,6 +19,7 @@
   "homepage": "https://github.com/YotoYamito/hierbamala#readme",
   "dependencies": {
     "express": "^4.21.2",
-    "web-push": "^3.6.7"
+    "web-push": "^3.6.7",
+    "axios": "^1.7.9",
   }
 }
